@@ -1,17 +1,18 @@
-# Hi there! 👋
+Hello. I'm ryzm ( juwen ).
 
-I'm a 15-year-old backend developer passionate about building efficient and scalable systems. I love working with various backend technologies and always look forward to learning new things!
+> Backend Engineer
 
-## Technologies I Work With
-- **Languages**: Golang, TypeScript, JavaScript, Python, Rust (learning)
-- **Tools & Platforms**: Git, Docker, Bun
+My tools:
+- Git
+- Docker
+- Rust
+- TypeScript
+- Go
+- Elixir
+- Python
+- Vercel
+- Bun
 
-## Currently Learning
-- Diving deeper into **Rust** to build high-performance applications.
-- Exploring more advanced **distributed systems** and **backend architectures**.
+Currently working on Bue.
 
-## Let's Connect
-- Feel free to check out my repositories and projects!
-- Always open to collaborating and learning from other developers.
-
-Thanks for stopping by! 😊
+Contact: juwen@envkit.xyz
